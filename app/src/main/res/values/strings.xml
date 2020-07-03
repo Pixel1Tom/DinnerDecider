@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Dinner Decider</string>
+    <string name="btnDecidetxt">DECIDE!</string>
+    <string name="txtSelectFood">Chinese</string>
+</resources>
